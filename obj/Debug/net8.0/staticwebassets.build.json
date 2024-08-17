@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iw5prHcHG08tn6bOzVBymJloJ1oz/8mcrmNvbakO2dM=",
+  "Source": "AspDotNetCoreIdentity",
+  "BasePath": "_content/AspDotNetCoreIdentity",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
